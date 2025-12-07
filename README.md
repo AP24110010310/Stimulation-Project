@@ -1,2 +1,2 @@
 Stimulation Project
-coding skilla
+coding skills
